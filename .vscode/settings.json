@@ -1,0 +1,12 @@
+{
+  "files.exclude": {
+    "**/.fable": true,
+    "**/.fake": true,
+    "**/.paket": true,
+    "**/bin": true,
+    "**/deploy": true,
+    "**/node_modules": true,
+    "**/obj": true,
+    "**/paket-files": true
+  }
+}
